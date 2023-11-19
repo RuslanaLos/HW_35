@@ -1,0 +1,29 @@
+.navigation {
+    width: 20%;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 8px;
+    background-color: #be6fff;
+    box-shadow: 0 4px 8px rgba(255, 255, 255, 0.1);
+}
+
+.navigation ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.navigation li {
+    margin-bottom: 10px;
+}
+
+.navigation a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    font-size: 30px;
+    transition: color 0.3s;
+}
+
+.navigation a:hover {
+    color: #ff00c2;
+}
